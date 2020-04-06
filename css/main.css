@@ -42,6 +42,10 @@ ul.posts li {
     list-style: none;
 }
 
+img {
+    image-orientation: from-image;
+}
+
 img.rotateimg90 {
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
