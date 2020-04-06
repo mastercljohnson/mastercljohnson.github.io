@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "So I got bored during Covid-19"
+date: 2020-04-05
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Due to the ongoing pandemic (COVID-19) as of April 5, 2020, California has implemented shelter-in-place measures to protect citizens and prevent the spread of the virus. As such, I became super bored and decided to create a personal site which may be useful in the future.
+
+-Chris
